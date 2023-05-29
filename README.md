@@ -1,10 +1,5 @@
-# 提示
-
-如果有收录您的配置，您也不希望被收录请[issues](https://github.com/hl128k/tvbox/issues)，必将第一时间移除
-
-如果有好的地址配置需要镜像化请提交[issues](https://github.com/hl128k/tvbox/issues)
-
-# TvBox 配置
+#谢谢128分享
+## TvBox 配置
 
 本页面只是收集Box，自用请勿宣传
 
